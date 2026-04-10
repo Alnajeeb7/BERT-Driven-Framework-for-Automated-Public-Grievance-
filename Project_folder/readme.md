@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Overview
-This project leverages **BERT (Bidirectional Encoder Representations from Transformers)** to automate the processing of public grievances.
+This project leverages ** BERT (Bidirectional Encoder Representations from Transformers)** to automate the processing of public grievances.
 
 It intelligently:
 - 📝 Tokenizes and normalizes text inputs  
